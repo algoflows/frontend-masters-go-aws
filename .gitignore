@@ -1,8 +1,2 @@
 .idea
-temp
-temp/*
-
-```
-# Ignore all temp folders
-**/temp/
-```
+tmp
